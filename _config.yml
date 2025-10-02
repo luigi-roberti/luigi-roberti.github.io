@@ -24,24 +24,24 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Luigi Roberti"
+  name             : # "Luigi Roberti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "Leibniz Universität Hannover"
-  location         : "Welfengarten 1, 30167 Hannover"
+  bio              : # "Short biography for the left-hand sidebar"
+  employer         : # "Leibniz Universität Hannover"
+  location         : # "Welfengarten 1, 30167 Hannover, Room C405"
   uri              : # URL
-  email            : "roberti@ifam.uni-hannover.de" 
+  email            : # "roberti@ifam.uni-hannover.de" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/a/roberti_l_1.html"
+  googlescholar    : "https://scholar.google.com/citations?user=R7BivBYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7678-7389"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Luigi-Roberti"
   scopus           : # URL
 
   # Repositories and software development
