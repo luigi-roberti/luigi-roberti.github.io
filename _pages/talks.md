@@ -25,9 +25,9 @@ Speaker at conference <i>ÖMG Tagung 2023</i>, TU Graz (2023).
 Speaker at conference <i>DMV-Jahrestagung 2022</i>, Freie Universität Berlin (2022).
 * <b>The oceanic Ekman layer.</b><br />
 Speaker in <i>Seminar Applied and Computational PDE</i>, University of Vienna (2022).
-*<b>On the decrease of mean velocity with depth in irrotational water waves.</b><br />
+* <b>On the decrease of mean velocity with depth in irrotational water waves.</b><br />
 Speaker in <i>Applied PDEs Seminar</i>, University of Vienna (2020).
-*<b>The Bergman kernel and Fefferman’s theorem.</b><br />
+* <b>The Bergman kernel and Fefferman’s theorem.</b><br />
 Speaker in <i>Complex Analysis Seminar</i>, University of Vienna (2019).
 
 Attended Conferences, Workshops, and Summer Schools
