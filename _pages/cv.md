@@ -14,7 +14,7 @@ Education
 * 8/2025: <b>Dr.rer.nat. in Mathematics</b>, University of Vienna.<br />
 Thesis title: <i>Mathematical aspects of geophysical fluid flows.</i><br />
 Advisor: Prof. Adrian Constantin.
-* 9/2020: <b>MSc in Mathematics</b>, University of Vienna.</br >
+* 9/2020: <b>MSc in Mathematics</b>, University of Vienna.<br />
 Thesis title: <i>On the decrease of velocity with depth in periodic water waves.</i><br />
 Advisor: Prof. Adrian Constantin.
 * 8/2018: <b>BSc in Mathematics</b>, University of Vienna.<br />
