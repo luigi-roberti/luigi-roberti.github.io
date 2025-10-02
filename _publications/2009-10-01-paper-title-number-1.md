@@ -1,5 +1,6 @@
 ---
-
+collection: publications
+category: manuscripts
 excerpt: 'On the decrease of velocity with depth in irrotiational water waves. <i>Monats. Math.</i> 193(3) (2020)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
