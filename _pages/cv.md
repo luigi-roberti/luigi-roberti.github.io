@@ -31,7 +31,7 @@ Employment
 * 10/2025--Present: <b>Leibniz Universität Hannover</b>.<br />
 Wissenschaftlicher Mitarbeiter -- Postdoc (Postdoctoral Research Assistant).
 * 10/2021--9/2025: <b>University of Vienna</b>.<br />
-Wissenschaftlicher Mitarbeiter -- Praedoc (Predoc Research Assistant).
+Universitätsassistent Praedoc (Predoc University Assistant).
 * 10/2020--9/2021: <b>University of Vienna</b>.<br />
 Wissenschaftlicher Projektmitarbeiter (Scientific Project Assistant).<br />
 Employment within the project “Equatorial wave-current interactions”, supported by the WWTF grant MA16-009.
