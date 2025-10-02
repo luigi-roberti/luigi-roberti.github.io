@@ -30,3 +30,5 @@ Employment
 <b>Leibniz Universität Hannover</b>
 * 10/2020--9/2025: Wissenschaftlicher Mitarbeiter -- Praedoc (Praedoc Research Assistant)<br />
 <b>University of Vienna</b>
+
+A complete CV can be downoladed [here](https://luigi-roberti.github.io/files/CV.pdf).
