@@ -12,11 +12,8 @@ Welcome to my homepage! I'm a postdoctoral researcher at the [Institut für Ange
 My research is mainly concerned with aspects of fluid dynamics (in particular, with applications to geophysical flows), as well as well-posedness theory for parabolic equations.
 
 Address
-======
-Leibniz Universität Hannover
-Institut für Angewandte Mathematik
-Welfengarten 1
-30167 hannover, Germany
-
-Office: C405
+------
+<address>
+  Leibniz Universität Hannover<br /> Institut für Angewandte Mathematik<br /> Welfengarten 1<br /> 30167 Hannover<br /> Germany<br /> <br /> Office: C405<br />
+</address>
 E-Mail: roberti@ifam.uni-hannover.de
