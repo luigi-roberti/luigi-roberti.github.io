@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -17,3 +17,5 @@ Talk at workshop <i>Mathematical Theory of Water Waves</i>, Lund University (202
 Talk in <i>PDE Afternoon Seminar</i>, University of Vienna (2024).
 * <b>Geophysical Fluid Dynamics: An overview and some recent advancements.</b><br />
 Invited talk at <i>MCMP Seminar</i>, University of Vienna (2024).
+* <b>Weak and classical solutions to an asymptotic model for atmospheric flows.</b><br />
+Talk at conference <i>ÖMG Tagung 2023</i>, TU Graz (2023).
