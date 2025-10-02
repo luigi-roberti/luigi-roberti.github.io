@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ------
-* (With [Eduard Stefanescu](https://www.math.tugraz.at/~stefanescu/)) Global-in-time existence, uniqueness and stability of solutions to a model of the antarctic circumpolar current. <i>Submitted</i>. [arXiv:2409.17013](https://arxiv.org/abs/2409.17013).
+* (With [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/)) Global-in-time existence, uniqueness and stability of solutions to a model of the antarctic circumpolar current. <i>Submitted</i>. [arXiv:2409.17013](https://arxiv.org/abs/2409.17013).
 
 Published Articles
 ------
