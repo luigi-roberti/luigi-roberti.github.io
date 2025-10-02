@@ -28,7 +28,11 @@ Advisor: Prof. Helmuth Horvath.
 
 Employment
 ------
-* 10/2025--Present: Wissenschaftlicher Mitarbeiter -- Postdoc (Postdoctoral Research Assistant)<br />
-<b>Leibniz Universität Hannover</b>
-* 10/2020--9/2025: Wissenschaftlicher Mitarbeiter -- Praedoc (Praedoc Research Assistant)<br />
-<b>University of Vienna</b>
+* 10/2025--Present: Wissenschaftlicher Mitarbeiter -- Postdoc (Postdoctoral Research Assistant).<br />
+<b>Leibniz Universität Hannover</b>.
+* 10/2021--9/2025: Wissenschaftlicher Mitarbeiter -- Predoc (Praedoc Research Assistant).<br />
+<b>University of Vienna</b>.
+* 10/2020--9/2021: Wissenschaftlicher Projektmitarbeiter (Scientific Project Assistant).<br />
+<b>University of Vienna</b>.<br />
+Employment within the project “Equatorial wave-current interactions”, supported by the WWTF grant MA16-009.
+
