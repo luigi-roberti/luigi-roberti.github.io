@@ -8,21 +8,21 @@ author_profile: true
 Talks at Conferences, Workshops, and Seminars
 ------
 * <b>Well-Posedness of a semilinear parabolic equation arising from the modelling of atmospheric flows.</b><br />
-Invited speaker at conference <i>Modelling of Fluid Propagation: Mathematical Theory and Numerical Approximation</i>, CIEM, Castro Urdiales (2025).
+Invited speaker at conference [<i>Modelling of Fluid Propagation: Mathematical Theory and Numerical Approximation</i>](https://www.ciem.unican.es/modelling-of-fluid-propagation-mathematical-theory-and-numerical-approximation/), CIEM, Castro Urdiales (2025).
 * <b>Well-Posedness of a semilinear parabolic equation arising from the modelling of atmospheric flows.</b><br />
-Invited speaker at a minisymposium at <i>Conference on Mathematics of Wave Phenomena</i>, Karlsruhe Institute of Technology (2025).
+Invited speaker at a minisymposium at [<i>Conference on Mathematics of Wave Phenomena</i>](https://conference25.waves.kit.edu), Karlsruhe Institute of Technology (2025).
 * <b>Well-posedness of a semilinear parabolic equation arising from the modelling of atmospheric flows.</b><br />
-Invited speaker in <i>Mathematical Sciences Seminar</i>, University College Cork (2024).
+Invited speaker in [<i>Mathematical Sciences Seminar</i>](https://www.ucc.ie/en/matsci/events/pasteventsarchive/somsseminarseries2024-25/), University College Cork (2024).
 * <b>Existence, uniqueness and stability for a model of the Antarctic Circumpolar Current.</b><br />
-Speaker at workshop <i>Mathematical Theory of Water Waves</i>, Lund University (2024).
+Speaker at workshop [<i>Mathematical Theory of Water Waves</i>](https://www.maths.lu.se/kalendarium/?L=2&evenemang=workshop-mathematical-theory-water-waves), Lund University (2024).
 * <b>Classical well-posedness and stability for a model of the Antarctic Circumpolar Current.</b><br />
-Speaker in <i>PDE Afternoon Seminar</i>, University of Vienna (2024).
+Speaker in [<i>PDE Afternoon Seminar</i>](https://sfb65.univie.ac.at/#!/public/events/pde_afternoon/), University of Vienna (2024).
 * <b>Geophysical Fluid Dynamics: An overview and some recent advancements.</b><br />
-Invited Speaker at <i>MCMP Seminar</i>, University of Vienna (2024).
+Invited Speaker at [<i>MCMP Seminar</i>](https://mcmp.univie.ac.at/events/), University of Vienna (2024).
 * <b>Weak and classical solutions to an asymptotic model for atmospheric flows.</b><br />
-Speaker at conference <i>ÖMG Tagung 2023</i>, TU Graz (2023).
+Speaker at conference [<i>ÖMG Tagung 2023</i>](https://imsc.uni-graz.at/oemg-tagung-2023/index.html), TU Graz (2023).
 * <b>On the surface deflection angle of Ekman flows with varying eddy viscosity.</b><br />
-Speaker at conference <i>DMV-Jahrestagung 2022</i>, Freie Universität Berlin (2022).
+Speaker at conference [<i>DMV-Jahrestagung 2022</i>](https://www.mi.fu-berlin.de/dmv2022/Willkommen/index.html), Freie Universität Berlin (2022).
 * <b>The oceanic Ekman layer.</b><br />
 Speaker in <i>Seminar Applied and Computational PDE</i>, University of Vienna (2022).
 * <b>On the decrease of mean velocity with depth in irrotational water waves.</b><br />
