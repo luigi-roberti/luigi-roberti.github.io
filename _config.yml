@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Luigi Roberti -- Homepage"
+title                    : "Luigi Roberti"
 title_separator          : "-"
 name                     : &name "Luigi Roberti"
 description              : &description "Luigi Roberti's personal webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
