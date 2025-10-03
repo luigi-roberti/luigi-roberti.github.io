@@ -24,11 +24,11 @@ Speaker at conference [<i>ÖMG Tagung 2023</i>](https://imsc.uni-graz.at/oemg-ta
 * <b>On the surface deflection angle of Ekman flows with varying eddy viscosity.</b><br />
 Speaker at conference [<i>DMV-Jahrestagung 2022</i>](https://www.mi.fu-berlin.de/dmv2022/Willkommen/index.html), Freie Universität Berlin (2022).
 * <b>The oceanic Ekman layer.</b><br />
-Speaker in <i>Seminar Applied and Computational PDE</i>, University of Vienna (2022).
+Speaker in [<i>Seminar Applied and Computational PDE</i>](https://ufind.univie.ac.at/en/course.html?lv=250090&semester=2021W), University of Vienna (2022).
 * <b>On the decrease of mean velocity with depth in irrotational water waves.</b><br />
-Speaker in <i>Applied PDEs Seminar</i>, University of Vienna (2020).
+Speaker in [<i>Seminar: Applied PDE</i>](https://ufind.univie.ac.at/en/course.html?lv=442507&semester=2020S), University of Vienna (2020).
 * <b>The Bergman kernel and Fefferman’s theorem.</b><br />
-Speaker in <i>Complex Analysis Seminar</i>, University of Vienna (2019).
+Speaker in [<i>Complex Analysis Seminar</i>](https://ufind.univie.ac.at/de/course.html?lv=250086&semester=2019S), University of Vienna (2019).
 
 Attended Conferences, Workshops, and Summer Schools
 ------
