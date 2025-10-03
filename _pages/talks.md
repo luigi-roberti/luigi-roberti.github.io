@@ -32,15 +32,15 @@ Speaker in <i>Complex Analysis Seminar</i>, University of Vienna (2019).
 
 Attended Conferences, Workshops, and Summer Schools
 ------
-* <i>Mathematical Advances in Geophysical Fluid Dynamics.</i><br />
+* [<i>Mathematical Advances in Geophysical Fluid Dynamics</i>](https://publications.mfo.de/handle/mfo/4024).<br />
 Mathematisches Forschungsinstitut Oberwolfach (2025).
-* <i>EWM-EMS Summer School: Water Waves and Nonlinear Dispersive Equations.</i><br />
+* [<i>EWM-EMS Summer School: Water Waves and Nonlinear Dispersive Equations</i>](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-water-waves-and-nonlinear-dispersive-equations/).<br />
 Mittag-Leffler-Institut (2024).
-* <i>Fluid Flows – Analysis and Modelling. Conference in Honour of Robin S. Johnson's 80th Birthday.</i><br />
+* [<i>Fluid Flows – Analysis and Modelling. Conference in Honour of Robin S. Johnson's 80th Birthday</i>](https://mathematik.univie.ac.at/en/eventsnews/full-news-display/news/fluid-flows-analysis-and-modelling/?no_cache=1&cHash=0065dd325af8e328e1a0b8eafba92e2e).<br />
 University of Vienna (2024).
-* <i>Aspects of Nonlinear Evolution. Conference in Honour of Joachim Escher's 60th Birthday.</i><br />
+* [<i>Aspects of Nonlinear Evolution. Conference in Honour of Joachim Escher's 60th Birthday</i>](https://www.maphy.uni-hannover.de/de/news-veranstaltungen/math-conf/escher60).<br />
 Leibniz Universität Hannover (2023).
-* <i>Workshop on Nonlinear Dispersive Waves</i> (online attendance).<br />
+* [<i>Workshop on Nonlinear Dispersive Waves</i> (online attendance)](https://www.ucc.ie/en/sefs/news/2023/school-of-mathematical-sciences-hosts-research-workshop-on-nonlinear-dispersive-waves-.html).<br />
  University College Cork (2023).
-* <i>Summer School of the Vienna School of Mathematics.</i>
+* [<i>Summer School of the Vienna School of Mathematics</i>](https://www.vsmath.at/activities_benefits/summer-winter-schools/).
 Weißensee (2021).
