@@ -42,5 +42,5 @@ University of Vienna (2024).
 Leibniz Universität Hannover (2023).
 * [<i>Workshop on Nonlinear Dispersive Waves</i> (online attendance)](https://www.ucc.ie/en/sefs/news/2023/school-of-mathematical-sciences-hosts-research-workshop-on-nonlinear-dispersive-waves-.html).<br />
  University College Cork (2023).
-* [<i>Summer School of the Vienna School of Mathematics</i>](https://www.vsmath.at/activities_benefits/summer-winter-schools/).
+* [<i>Summer School of the Vienna School of Mathematics</i>](https://www.vsmath.at/activities_benefits/summer-winter-schools/).<br />
 Weißensee (2021).
