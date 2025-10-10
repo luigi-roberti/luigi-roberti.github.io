@@ -40,7 +40,7 @@ Mittag-Leffler-Institut (2024).
 University of Vienna (2024).
 * [<i>Aspects of Nonlinear Evolution. Conference in Honour of Joachim Escher's 60th Birthday</i>](https://www.maphy.uni-hannover.de/de/news-veranstaltungen/math-conf/escher60).<br />
 Leibniz Universität Hannover (2023).
-* [<i>Workshop on Nonlinear Dispersive Waves</i> (online attendance)](https://www.ucc.ie/en/sefs/news/2023/school-of-mathematical-sciences-hosts-research-workshop-on-nonlinear-dispersive-waves-.html).<br />
+* [<i>Workshop on Nonlinear Dispersive Waves</i>](https://www.ucc.ie/en/sefs/news/2023/school-of-mathematical-sciences-hosts-research-workshop-on-nonlinear-dispersive-waves-.html) (online attendance).<br />
  University College Cork (2023).
 * [<i>Summer School of the Vienna School of Mathematics</i>](https://www.vsmath.at/activities_benefits/summer-winter-schools/).<br />
 Weißensee (2021).
