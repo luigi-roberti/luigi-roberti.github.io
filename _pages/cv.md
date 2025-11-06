@@ -34,4 +34,4 @@ Wissenschaftlicher Mitarbeiter -- Postdoc (Postdoctoral Research Assistant).
 Universitätsassistent Praedoc (Predoctoral University Assistant).
 * 10/2020--9/2021: <b>University of Vienna</b>.<br />
 Wissenschaftlicher Projektmitarbeiter (Scientific Project Assistant).<br />
-Employment within the project “Equatorial wave-current interactions”, supported by the WWTF grant MA16-009.
+Employment within the project “[Equatorial wave-current interactions](https://www.wwtf.at/funding/programmes/past/ma/MA16-009/){:target="_blank",rel="noopener"}”, supported by the WWTF grant MA16-009.
