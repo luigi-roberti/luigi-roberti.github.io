@@ -9,22 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-A complete CV can be downloaded [here](https://luigi-roberti.github.io/files/CV.pdf).
+A complete CV can be downloaded [here](https://luigi-roberti.github.io/files/CV.pdf){:target="_blank",rel="noopener"}.
 
 Education
 ------
 * 8/2025: <b>Dr.rer.nat. in Mathematics</b>, University of Vienna.<br />
-Thesis title: [<i>Mathematical aspects of geophysical fluid flows</i>](https://utheses.univie.ac.at/detail/76235/).<br />
-Advisor: Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/adrian-constantin).
+Thesis title: [<i>Mathematical aspects of geophysical fluid flows</i>](https://utheses.univie.ac.at/detail/76235/){:target="_blank",rel="noopener"}.<br />
+Advisor: Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/adrian-constantin){:target="_blank",rel="noopener"}.
 * 9/2020: <b>MSc in Mathematics</b>, University of Vienna.<br />
-Thesis title: [<i>On the decrease of velocity with depth in periodic water waves</i>](https://utheses.univie.ac.at/detail/56793/).<br />
-Advisor: Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/adrian-constantin).
+Thesis title: [<i>On the decrease of velocity with depth in periodic water waves</i>](https://utheses.univie.ac.at/detail/56793/){:target="_blank",rel="noopener"}.<br />
+Advisor: Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/adrian-constantin){:target="_blank",rel="noopener"}.
 * 8/2018: <b>BSc in Mathematics</b>, University of Vienna.<br />
 Thesis title: <i>Hardy's inequality.</i><br />
-Advisor: Prof. [Roland Donninger](https://homepage.univie.ac.at/roland.donninger/).
+Advisor: Prof. [Roland Donninger](https://homepage.univie.ac.at/roland.donninger/){:target="_blank",rel="noopener"}.
 * 3/2018: <b>BSc in Physics</b>, University of Vienna.<br />
 Thesis title: <i>Computing the volume distribution of an aerosol from the measurement of its attenuation coefficient</i> (in German).<br />
-Advisor: Prof. [Helmuth Horvath](https://oecv.at/Biolex/Detail/10800194).
+Advisor: Prof. [Helmuth Horvath](https://oecv.at/Biolex/Detail/10800194){:target="_blank",rel="noopener"}.
 
 Employment
 ------
@@ -35,4 +35,3 @@ Universitätsassistent Praedoc (Predoctoral University Assistant).
 * 10/2020--9/2021: <b>University of Vienna</b>.<br />
 Wissenschaftlicher Projektmitarbeiter (Scientific Project Assistant).<br />
 Employment within the project “Equatorial wave-current interactions”, supported by the WWTF grant MA16-009.
-
