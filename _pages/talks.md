@@ -8,7 +8,7 @@ author_profile: true
 Talks at Conferences, Workshops, and Seminars
 ------
 * <b>The mathematical modelling of wind-drift ocean currents.</b><br />
-Speaker at [<i>Oberseminar Analysis und Theoretische Physik</i>](https://www.ifam.uni-hannover.de/de/forschung/angewandte-analysis/os-analysis-und-theoretische-physik), Leibniz Universität Hannover (2025).
+Speaker at [<i>Oberseminar Analysis und Theoretische Physik</i>](https://www.ifam.uni-hannover.de/de/forschung/angewandte-analysis/os-analysis-und-theoretische-physik){:target="_blank",rel="noopener"}, Leibniz Universität Hannover (2025).
 * <b>Well-Posedness of a semilinear parabolic equation arising from the modelling of atmospheric flows.</b><br />
 Invited speaker at conference [<i>Modelling of Fluid Propagation: Mathematical Theory and Numerical Approximation</i>](https://www.ciem.unican.es/modelling-of-fluid-propagation-mathematical-theory-and-numerical-approximation/){:target="_blank",rel="noopener"}, CIEM, Castro Urdiales (2025).
 * <b>Well-Posedness of a semilinear parabolic equation arising from the modelling of atmospheric flows.</b><br />
