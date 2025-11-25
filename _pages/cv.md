@@ -23,7 +23,7 @@ Advisor: Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/a
 Thesis title: <i>Hardy's inequality.</i><br />
 Advisor: Prof. [Roland Donninger](https://homepage.univie.ac.at/roland.donninger/){:target="_blank",rel="noopener"}.
 * 3/2018: <b>BSc in Physics</b>, University of Vienna.<br />
-Thesis title: <i>Computing the volume distribution of an aerosol from the measurement of its attenuation coefficient</i> (in German).<br />
+Thesis title: <i>Bestimmung der Volumenverteilung eines Aerosols aus der Messung von dessen Extinktionskoeffizienten</i>.<br />
 Advisor: Prof. [Helmuth Horvath](https://oecv.at/Biolex/Detail/10800194){:target="_blank",rel="noopener"}.
 
 Employment
