@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A complete CV can be downloaded [here](https://luigi-roberti.github.io/files/CV.pdf){:target="_blank",rel="noopener"}.
+A complete CV can be downloaded [here](https://github.com/luigi-roberti/luigi-roberti.github.io/blob/master/files/CV.pdf){:target="_blank",rel="noopener"}.
 
 Education
 ------
