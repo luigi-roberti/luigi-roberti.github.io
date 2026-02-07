@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 About me
 ------
 
-My name is <b>Luigi Roberti</b> and I'm a postdoctoral researcher at the [Institut für Angewandte Mathematik](https://www.ifam.uni-hannover.de/de/){:target="_blank",rel="noopener"} of the [Leibniz Universität Hannover](https://www.uni-hannover.de/de/){:target="_blank",rel="noopener"}. Previously, I worked at the [Faculty of Mathematics](https://mathematik.univie.ac.at/){:target="_blank",rel="noopener"} of the [University of Vienna](https://www.univie.ac.at/){:target="_blank",rel="noopener"}, where I obtained my PhD under the supervision of Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/adrian-constantin){:target="_blank",rel="noopener"}, and where I was a member of the [Vienna School of Mathematics](https://www.vsmath.at/){:target="_blank",rel="noopener"}.
+I'm a postdoctoral researcher at the [Institut für Angewandte Mathematik](https://www.ifam.uni-hannover.de/de/){:target="_blank",rel="noopener"} of the [Leibniz Universität Hannover](https://www.uni-hannover.de/de/){:target="_blank",rel="noopener"}. Previously, I worked at the [Faculty of Mathematics](https://mathematik.univie.ac.at/){:target="_blank",rel="noopener"} of the [University of Vienna](https://www.univie.ac.at/){:target="_blank",rel="noopener"}, where I obtained my PhD under the supervision of Prof. [Adrian Constantin](https://ucrisportal.univie.ac.at/en/persons/adrian-constantin){:target="_blank",rel="noopener"}, and where I was a member of the [Vienna School of Mathematics](https://www.vsmath.at/){:target="_blank",rel="noopener"}.
 
 My research is mainly concerned with aspects of fluid dynamics (in particular, with applications to geophysical flows), as well as well-posedness theory for parabolic equations.
 
