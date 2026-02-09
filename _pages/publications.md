@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Preprints
+------
+* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale oceanic wind-drift currents. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 50 pp.
+
+
 Published Articles
 ------
 * (With [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) Global-in-time existence, uniqueness, and stability of solutions to a model of the Antarctic Circumpolar Current. <i>Discrete Contin. Dyn. Syst.</i> <b>49</b> (2026), 289--310. [Published Version](https://doi.org/10.3934/dcds.2025169){:target="_blank",rel="noopener"}, [arXiv:2409.17013](https://arxiv.org/abs/2409.17013){:target="_blank",rel="noopener"}.
@@ -18,4 +23,4 @@ Published Articles
 * The Ekman spiral for piecewise-constant eddy viscosity. <i>Appl. Anal.</i> <b>101</b>(15) (2022), 5528--5536. [Published version](https://www.tandfonline.com/doi/full/10.1080/00036811.2021.1896709){:target="_blank",rel="noopener"}.
 * The surface current of Ekman flows with time-dependent eddy viscosity. <i>Comm. Pure Appl. Anal.</i> <b>21</b>(7) (2022), 2463--2477. [Published version](https://www.aimsciences.org/article/doi/10.3934/cpaa.2022064){:target="_blank",rel="noopener"}.
 * Perturbation analysis for the surface deflection angle of Ekman-type flows with variable eddy viscosity. <i>J. Math. Fluid Mech.</i> <b>23</b>(3) (2021), No. 57. [Published version](https://link.springer.com/article/10.1007/s00021-021-00586-y){:target="_blank",rel="noopener"}.
-* On the decrease of velocity with depth in irrotational periodic water waves. <i>Monats. Math.</i> <b>193</b>(3) (2020), 671--682. [Published version](https://link.springer.com/article/10.1007/s00605-020-01451-2){:target="_blank",rel="noopener"}. 
+* On the decrease of velocity with depth in irrotational periodic water waves. <i>Monats. Math.</i> <b>193</b>(3) (2020), 671--682. [Published version](https://link.springer.com/article/10.1007/s00605-020-01451-2){:target="_blank",rel="noopener"}.
