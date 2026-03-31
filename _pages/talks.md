@@ -7,6 +7,8 @@ author_profile: true
 
 Talks at Conferences, Workshops, and Seminars
 ------
+* Invited talk in working seminar, Hangzhou Normal University (2026).
+* Invited talk at workshop <i>Fluid Dynamics and Spectral Theory of Differential Operators</i>, Nanjing University (2026).
 * Invited talk at [<i>Bielefeld Analysis Seminar</i>](https://www.math.uni-bielefeld.de/~glogic/bielefeld_analysis_seminar.html){:target="_blank",rel="noopener"}, Universität Bielefeld (2025).
 * Talk at [<i>Oberseminar Analysis und Theoretische Physik</i>](https://www.ifam.uni-hannover.de/de/forschung/angewandte-analysis/os-analysis-und-theoretische-physik){:target="_blank",rel="noopener"}, Leibniz Universität Hannover (2025).
 * Invited talk at workshop [<i>Modelling of Fluid Propagation: Mathematical Theory and Numerical Approximation</i>](https://www.ciem.unican.es/modelling-of-fluid-propagation-mathematical-theory-and-numerical-approximation/){:target="_blank",rel="noopener"}, International Centre for Mathematical Meetings (CIEM), Castro Urdiales (2025).
