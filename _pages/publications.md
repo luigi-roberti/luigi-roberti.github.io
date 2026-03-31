@@ -14,6 +14,12 @@ Preprints
 * (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale oceanic wind-drift currents. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 50 pp.
 
 
+Accepted Articles
+------
+
+* (With [Q. Ding](https://www.researchgate.net/profile/Qixing-Ding){:target="_blank",rel="noopener"}) Variational formulation for a model describing the Antarctic Circumpolar Current with variable density. <i>Differ. Integral Equ.</i> <b>39</b>(7--8) (2026), 497--510. [doi:10.57262/die039-0708-497](https://doi.org/10.57262/die039-0708-497){:target="_blank",rel="noopener"} (to appear).
+
+
 Published Articles
 ------
 * (With [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) Global-in-time existence, uniqueness, and stability of solutions to a model of the Antarctic Circumpolar Current. <i>Discrete Contin. Dyn. Syst.</i> <b>49</b> (2026), 289--310. [Published Version](https://doi.org/10.3934/dcds.2025169){:target="_blank",rel="noopener"}, [arXiv:2409.17013](https://arxiv.org/abs/2409.17013){:target="_blank",rel="noopener"}.
