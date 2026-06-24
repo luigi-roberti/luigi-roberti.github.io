@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ------
-* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale oceanic wind-drift currents. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 50 pp.
+* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale wind-drift ocean currents: An asymptotic approach in spherical coordinates. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 42 pp.
 
 
 Published Articles
