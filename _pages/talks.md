@@ -7,6 +7,7 @@ author_profile: true
 
 Talks at Conferences, Workshops, and Seminars
 ------
+* Invited talk at [<i>the 15th AIMS Conference</i>](https://www.aimsconference.org/conferences/2026/index.html){:target="_blank",rel="noopener"}, Athens, Greece (2026).
 * Talk at [<i>SIAM Conference on Nonlinear Waves and Coherent Structures (NWCS26)</i>](https://www.siam.org/conferences-events/past-event-archive/nwcs26/){:target="_blank",rel="noopener"}, Montréal, Canada (2026).
 * Invited talk in working seminar, Hangzhou Normal University, China (2026).
 * Invited talk at workshop <i>Fluid Dynamics and Spectral Theory of Differential Operators</i>, Nanjing University, China (2026).
