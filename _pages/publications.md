@@ -11,6 +11,7 @@ redirect_from:
 
 Preprints
 ------
+* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"}) Why a mid-depth stress-free boundary condition is incorrect for Ekman flows. [arXiv:2607.29261](https://arxiv.org/abs/2607.29261){:target="_blank",rel="noopener"}, 6 pp.
 * (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale wind-drift ocean currents: An asymptotic approach in spherical coordinates. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 42 pp.
 
 
