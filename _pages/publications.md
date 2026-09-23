@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ------
-* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"}) Why a mid-depth stress-free boundary condition is incorrect for Ekman flows. [arXiv:2607.29261](https://arxiv.org/abs/2607.29261){:target="_blank",rel="noopener"}, 6 pp.
+* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"}) A note on the lower boundary condition for Ekman flows. [arXiv:2607.29261](https://arxiv.org/abs/2607.29261){:target="_blank",rel="noopener"}, 11 pp.
 
 
 Accepted articles
