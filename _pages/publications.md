@@ -16,7 +16,7 @@ Preprints
 
 Accepted articles
 ------
-* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale wind-drift ocean currents: An asymptotic approach in spherical coordinates. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 42 pp., to appear in J. Fluid Mech.
+* (With [C. Puntini](https://ucrisportal.univie.ac.at/de/persons/christian-puntini/){:target="_blank",rel="noopener"} and [E. Stefanescu](https://www.math.tugraz.at/~stefanescu/){:target="_blank",rel="noopener"}) On large-scale wind-drift ocean currents: An asymptotic approach in spherical coordinates. [arXiv:2602.06473](https://arxiv.org/abs/2602.06473){:target="_blank",rel="noopener"}, 42 pp., to appear in <i>J. Fluid Mech.</i>
 
 
 Published Articles
