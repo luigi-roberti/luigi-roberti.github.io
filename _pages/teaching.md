@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* Fall 2026:
+  - [Übung zu Numerische Mathematik I](https://qis.verwaltung.uni-hannover.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=435563&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) (Exercise class to Numerical Mathematics I, in German).
 * Spring 2026:
   - [Funktionentheorie für das Lehramt](https://qis.verwaltung.uni-hannover.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=426067&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){:target="_blank",rel="noopener"} (Lecture on complex analysis for prospective teachers, in German), Leibniz Universität Hannover.
   - [Übung zu Funktionentheorie für das Lehramt](https://qis.verwaltung.uni-hannover.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=425748&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){:target="_blank",rel="noopener"} (Exercise class to my lecture on complex analysis for prospective teachers, in German), Leibniz Universität Hannover.
